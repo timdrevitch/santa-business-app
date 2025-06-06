@@ -29,7 +29,7 @@
     "mongoose": "^8.15.1",
     "typescript": "^5.8.3",
     "@types/express": "^5.0.2",
-    "@types/node": "^22.15.29"
+    "@types/node": "^22.15.30"
   },
   "devDependencies": {
     "concurrently": "^9.1.2",
