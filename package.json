@@ -32,7 +32,7 @@
     "@types/node": "^24.0.14"
   },
   "devDependencies": {
-    "concurrently": "^9.1.2",
+    "concurrently": "^9.2.0",
     "nodemon": "^3.1.10"
   }
 }
